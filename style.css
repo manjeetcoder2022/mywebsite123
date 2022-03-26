@@ -1,0 +1,40 @@
+#abc{
+    background-color: #00ffb3;
+}
+#mycarousel{
+    background-color:rgb(14, 209, 216);
+    border-radius: 15px;
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+}
+hr{
+    width: 50px;
+    height: 5px;
+    background-color: rgb(0, 0, 0);
+}
+#apps{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+iframe{
+    padding-top: 20px;
+}
+#gamecarousel{
+    background-color:rgb(14, 209, 216);
+    border-radius: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+img{
+    padding-top: 20px;
+}
+#gamecarousel img{
+    border-radius: 15px;
+    width: 392px;
+    height: 620px;
+}
+p{
+    text-align: center;
+}
